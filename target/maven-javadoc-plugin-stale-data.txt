@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'25'
+-sourcepath
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+ui
+models
+utilities
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/src/main/java/.DS_Store = 1794920346313
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/src/main/java = 1794907633531
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/tag-search-index.js = 1795195158094
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/overview-tree.html = 1795195158088
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/module-search-index.js = 1795195158093
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/index.html = 1795195158089
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/package-search-index.js = 1795195158093
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/serialized-form.html = 1795195158077
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/index-all.html = 1795195158097
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/allpackages-index.html = 1795195158093
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/member-search-index.js = 1795195158094
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/overview-summary.html = 1795195158098
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/help-doc.html = 1795195158099
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/element-list = 1795195158068
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/search.html = 1795195158098
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/allclasses-index.html = 1795195158093
+/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/MavenProject/library/target/reports/apidocs/type-search-index.js = 1795195158094

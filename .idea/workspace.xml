@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56aa9603-69a2-4b75-bc2e-fe28f7c9795f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4984693216120262E-7" />
+      <entry key="MS500" value="0.07507105676520184" />
+      <entry key="S2" value="0.8802742917041926" />
+      <entry key="S5" value="1.44033460742528" />
+      <entry key="S10" value="1.6972522543876851" />
+      <entry key="S30" value="1.8935149054775215" />
+      <entry key="S60" value="1.9460292045317429" />
+      <entry key="M2" value="1.9728300412186055" />
+      <entry key="M5" value="1.9890873980142934" />
+      <entry key="M10" value="1.9945445744799108" />
+      <entry key="M15" value="1.9978677137031073" />
+      <entry key="M30" value="2.3415941944634113" />
+      <entry key="H1" value="7.911730507017836" />
+      <entry key="H2" value="27.795659893291933" />
+      <entry key="H4" value="56.99682532795481" />
+      <entry key="D1" value="107.1417051947644" />
+      <entry key="W1" value="119.74796563024285" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0000000000008338" />
+      <entry key="M10" value="1.0000042842601977" />
+      <entry key="M15" value="1.0008264364260617" />
+      <entry key="M30" value="1.18809033509755" />
+      <entry key="H1" value="4.215252562206237" />
+      <entry key="H2" value="15.113905109851402" />
+      <entry key="H4" value="31.44114431310655" />
+      <entry key="D1" value="60.28039366585135" />
+      <entry key="W1" value="67.67361094753291" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.1950981060676302E-5" />
+      <entry key="MS500" value="0.1685712095434042" />
+      <entry key="S2" value="1.3709117908508965" />
+      <entry key="S5" value="2.181238656594758" />
+      <entry key="S10" value="2.5557393042984065" />
+      <entry key="S30" value="2.843360392005912" />
+      <entry key="S60" value="2.9205565714795627" />
+      <entry key="M2" value="2.9599931104296835" />
+      <entry key="M5" value="2.983928247863245" />
+      <entry key="M10" value="2.991965187167412" />
+      <entry key="M15" value="2.996968987146404" />
+      <entry key="M30" value="3.5286015119017673" />
+      <entry key="H1" value="12.124542005471932" />
+      <entry key="H2" value="42.904787920698695" />
+      <entry key="H4" value="88.43286584448354" />
+      <entry key="D1" value="167.42044085829934" />
+      <entry key="W1" value="187.42131004114586" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MEDnLmCvAIrZytceu7109KSNAX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BookCatalogTest.executor": "Run",
+    "JUnit.BookCatalogTest.shouldFindBookRegardlessOfCase.executor": "Run",
+    "JUnit.BookCatalogTest.shouldThrowExceptionWhenCatalogIsEmpty.executor": "Run",
+    "JUnit.BookCatalogTest.testAddABook.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBook.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBookThatDoesntExist.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBookWithExtraSpaces.executor": "Run",
+    "JUnit.BookTest.booksWithDifferentIdsShouldNotBeEqual.executor": "Run",
+    "JUnit.BookTest.booksWithSameIdAndTitleShouldBeEqual.executor": "Run",
+    "JUnit.BookTest.booksWithSameIdButDifferentTitlesShouldNotBeEqual.executor": "Run",
+    "JUnit.BookTest.test2EqualBooks.executor": "Run",
+    "JUnit.BookTest.test2NonEqualBooks.executor": "Run",
+    "JUnit.CustomerTest.testGetGender.executor": "Run",
+    "JUnit.CustomerTest.testGetMailingName.executor": "Run",
+    "JUnit.LoanTest.endLoanShouldBeHistoric.executor": "Run",
+    "JUnit.LoanTest.executor": "Run",
+    "JUnit.LoanTest.newLoanShouldBeCurrent.executor": "Run",
+    "JUnit.LoanTest.testDueDate.executor": "Run",
+    "Maven.library [clean].executor": "Run",
+    "Maven.library [compile].executor": "Run",
+    "Maven.library [package].executor": "Run",
+    "Maven.library [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../Inlämningsuppgift2/MavenProject/library/src/main/java/se/yrgo/library/utilities" />
+      <recent name="$PROJECT_DIR$/../../../Inlämningsuppgift2/MavenProject/library/src/main/java/se/yrgo/library/ui" />
+      <recent name="$PROJECT_DIR$/../../../Inlämningsuppgift2/MavenProject/library/src/test/java/se/yrgo/library/models" />
+      <recent name="$PROJECT_DIR$/../../../Inlämningsuppgift2/MavenProject/library/src/main/java/se/yrgo/library/models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BookCatalogTest.shouldThrowExceptionWhenCatalogIsEmpty">
+    <configuration name="BookCatalogTest.shouldThrowExceptionWhenCatalogIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.BookCatalogTest" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionWhenCatalogIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookCatalogTest.testAddABook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.BookCatalogTest" />
+      <option name="METHOD_NAME" value="testAddABook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookCatalogTest.testFindBookThatDoesntExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.BookCatalogTest" />
+      <option name="METHOD_NAME" value="testFindBookThatDoesntExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.LoanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanTest.newLoanShouldBeCurrent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.LoanTest" />
+      <option name="METHOD_NAME" value="newLoanShouldBeCurrent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookCatalogTest.shouldThrowExceptionWhenCatalogIsEmpty" />
+        <item itemvalue="JUnit.BookCatalogTest.testFindBookThatDoesntExist" />
+        <item itemvalue="JUnit.BookCatalogTest.testAddABook" />
+        <item itemvalue="JUnit.LoanTest" />
+        <item itemvalue="JUnit.LoanTest.newLoanShouldBeCurrent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a9fadf26ba24-intellij.indexing.shared.core-IU-262.12573.28" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.12573.28" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56aa9603-69a2-4b75-bc2e-fe28f7c9795f" name="Changes" comment="" />
+      <created>1794906998570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794906998570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
