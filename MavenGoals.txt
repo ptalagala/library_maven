@@ -1,0 +1,6 @@
+Textfilen måste innehålla alla Maven Goals som du har använt och en förklaring av vad var och en av dem gör:
+1. mvn compile för att kompilera java klasserna.
+2. mvn clean för att ta bort alla klass filerna (och hela target map)
+3. mvn test för att köra junit testerna.
+4. mvn package för att paketera kod och producera en körbar jar fil.
+5. mvn javadoc:javadoc för att skapa javadoc.
